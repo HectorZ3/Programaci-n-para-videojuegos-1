@@ -1,9 +1,18 @@
-# 🎮 Programación para Videojuegos 1
-
-<div align="center" style="background-color:#0f3d0f; padding: 20px; border-radius: 15px;">
-  <h2 style="color:#00ff6a;">👾 Bienvenido a mi repositorio 🚀</h2>
-  <p style="color:#a6f4b3;">¡Sumérgete en el mundo de la programación de videojuegos!</p>
+<!-- 🌊 Banner animado -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00ff99,100:0072ff&reversal=true&animation=fadeIn" />
 </div>
+
+<h3 align="center">
+  Hola soy Héctor Saúl Otero Zapatero
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Programación+de+videojuegos">
+  </a>
+</p>
 
 ---
 
@@ -27,24 +36,10 @@
 
 ---
 
-## 🎯 Acerca de este proyecto
-
-Este repositorio contiene mis prácticas y ejercicios del curso **Create with Code**, donde aprendí sobre:  
-
-- 🎮 Mecánicas básicas de jugabilidad  
-- 🔊 Integración de sonido y efectos  
-- 💻 Programación orientada a videojuegos con Unity  
-
----
-
-## 🖼 Capturas del Proyecto
-
-<div align="center">
-  <img src="./assets/tu-imagen.png" alt="Demo del Proyecto" width="500" style="border: 3px solid #00ff6a; border-radius:10px;"/>
-</div>
-
----
-
 <div align="center" style="background-color:#0f3d0f; padding: 10px; border-radius: 15px;">
-  <h3 style="color:#00ff6a;">🔥 Gracias por visitar mi repositorio! Sigue creando y jugando! 🕹</h3>
+  <h3 style="color:#00ff6a;">🔥 Soy Gamer feliz 🕹</h3>
 </div>
+	
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
