@@ -33,6 +33,7 @@
 |------------|------------|----------------------|
 | Tutorial 2 | *Jugabilidad Básica* | [Ver Carpeta](https://drive.google.com/drive/folders/1fAP_yA7uvkCKehcSlECdI6PfE1E123fg?usp=sharing) |
 | Tutorial 3 | *Sonido y Efectos* | [Ver Carpeta](https://drive.google.com/drive/folders/1FmHDwk9S3lV5iXXQeo-RspOP0m3e522_?usp=sharing) |
+| Tutorial 5 | *Interfaz de Usuario* | [Ver Carpeta](https://drive.google.com/drive/folders/1MEwpiJ7kANdCNd_xYaB6lGyLM3Ie2G05?usp=sharing) |
 
 ---
 
