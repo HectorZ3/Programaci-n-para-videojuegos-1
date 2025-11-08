@@ -37,6 +37,14 @@
 
 ---
 
+| Niveles | Detalles | 🔗 Enlace de Evidencia |
+|------------|------------|----------------------|
+| 1 | El jugador explora su ciudad natal | [Ver Carpeta](https://drive.google.com/drive/folders/12dNqMwk5Sj4h5c3Twje1pEdMDBMqsRvm?usp=sharing) |
+| 2 |  | [Ver Carpeta]() |
+| 3 |  | [Ver Carpeta]() |
+
+---
+
 <div align="center" style="background-color:#0f3d0f; padding: 10px; border-radius: 15px;">
   <h3 style="color:#00ff6a;">🔥 Soy Gamer feliz 🕹</h3>
 </div>
