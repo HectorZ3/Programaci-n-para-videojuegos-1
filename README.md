@@ -18,6 +18,12 @@
 
 ### 👤 Información Personal
 
+<div align="center">
+  <img src="https://github.com/tuusuario/tu-repo/blob/main/A_pixel_art_digital_illustration_of_a_hacker_chara.png?raw=true" 
+       alt="Pixel Art Hacker" width="300" 
+       style="border-radius:15px; box-shadow:0px 0px 20px #00FF99; margin: 20px 0;">
+</div>
+
 | 📝 Campo | 📌 Detalle |
 |----------|-----------|
 | **Nombre** | Hector Saul Otero Zapatero |
@@ -48,7 +54,7 @@
 <div align="center" style="background-color:#0f3d0f; padding: 10px; border-radius: 15px;">
   <h3 style="color:#00ff6a;">🔥 Soy Gamer feliz 🕹</h3>
 </div>
-	
+
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
